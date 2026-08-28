@@ -54,6 +54,14 @@ Open an issue here with your hardware details and what happened:
 - 25 GB disk space
 - NVIDIA, AMD and Intel graphics supported
 
+## Patent protection / حماية البراءات
+
+<a href="https://openinventionnetwork.com"><img src="assets/oin-member.png" alt="Open Invention Network community member" width="260"></a>
+
+NawaOS is part of the [Open Invention Network](https://openinventionnetwork.com) community, the patent non-aggression alliance that protects Linux and Open Source from patent litigation.
+
+انضمت NawaOS إلى مجتمع Open Invention Network، تحالف عدم الاعتداء على البراءات الذي يحمي لينكس والمصادر المفتوحة.
+
 ## License / الترخيص
 
 NawaOS's own applications, build system, and artwork are © 2025-2026 Ahmed Abdulla, all rights reserved. NawaOS is free to download and use.
