@@ -1,0 +1,39 @@
+Package: nawaos-apps
+Architecture: all
+Version: 2.3.0~dev.151
+Priority: optional
+Section: misc
+Maintainer: NawaOS <info@nawaos.com>
+Installed-Size: 2000
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Filename: pool/testing/main/nawaos-apps/nawaos-apps_2.3.0~dev.151_all.deb
+Size: 275556
+MD5sum: 8d5f622690117b10332ec449f4c27145
+SHA1: 2fd4e17047be26aa00aac7edc040c2c680bc6a55
+SHA256: 2dc454c92a51897eb7e80298016e95007133cae92a55b4b97ef24890cfad0f67
+SHA512: d7b95613d6079fd67edb6342b513ec672cba14fef9512db49f339419a3585846a450f004d715394245082db539205340bb15fc3f4c945d7b292c19281c9144e2
+Homepage: https://nawaos.com/
+Description: NawaOS applications, scripts and desktop theme
+ The NawaOS Control Panel, Gaming Center, Store, Setup Wizard, Backup
+ Manager, Companion, Control Center applet and console UI, the nawaos-*
+ system and gaming scripts, the NawaOS theme, icons and menu.
+
+Package: nawaos-release
+Architecture: all
+Version: 2.3.0~dev.151
+Priority: optional
+Section: admin
+Maintainer: NawaOS <info@nawaos.com>
+Installed-Size: 64
+Filename: pool/testing/main/nawaos-release/nawaos-release_2.3.0~dev.151_all.deb
+Size: 4752
+MD5sum: db8be3b96ad964e19a9d8a02a09e1b88
+SHA1: 3d2f7b728f73f85469f94741d02e095acf0e719b
+SHA256: 39221fd9caa9948bdf1600de235bd2e5a0df775170ba35007f436335ea3c2d5a
+SHA512: 4875ccc69cacaa3c040bfd3173d18e5d3d2520e5f8ee9f69f73ad75065af70dcad8d6ce1218644c72d6e77ec6f5b59b6f3c6cacd69cd8e32932a6157fe6c34af
+Homepage: https://nawaos.com/
+Description: NawaOS system identity and package repository
+ Identifies the system as NawaOS (os-release, kept across Debian point
+ releases), adds the NawaOS package repository and its signing key, and
+ on systems installed before 2.3 installs the NawaOS packages from it.
+

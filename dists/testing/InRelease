@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: testing
+Components: main
+Date: Mon, 16 Nov 2026 07:31:22 +0000
+Description: NawaOS packages (pre-release builds, for testing)
+Label: NawaOS
+Origin: NawaOS
+Suite: testing
+MD5Sum:
+ 62e0c43262aef3642eaeb60f1db1ba0d             1726 main/binary-amd64/Packages
+ 3072dca0da0e974cde353d7edd1526f2              914 main/binary-amd64/Packages.gz
+SHA1:
+ 894bee6ec6a2de47eb0acdeb66cd00c1de24a88c             1726 main/binary-amd64/Packages
+ 28e762c6b70659f880f8f7fc55b8109892c38a0e              914 main/binary-amd64/Packages.gz
+SHA256:
+ 22f8550fe21897308954cb529cefbdb0c5ccb894d0a2461cd10e0b17d9d6fd7b             1726 main/binary-amd64/Packages
+ a995a0026d08ffdc49348161209b48eeb52206ef9c5e79a98a7ea3cdfa6ac5fc              914 main/binary-amd64/Packages.gz
+SHA512:
+ ae0af02c2c6dcd26d494e98b7934f80e5563883ed43b7b6811ea80ef5a939f0b4b4fbceee30ce83f6fae3a374f125f67c68fb16234a4d58e48bc59866c82b5cb             1726 main/binary-amd64/Packages
+ ee5cc2bee30c8cd561389765a1c61a9e13591642f1bcdc34ffe03e35957ad10b896e6c4d55fdc9271f93eb271020a489cff8917399719297e8090926d2440f5e              914 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSPOcDdPVBN9On+oHd1k1L6PHqiJQUCavqxSgAKCRB1k1L6PHqi
+JRXIAPkB2iS05rgRdd4R0QdVy+x9bjxwbi6P+Zou/e3POGegBQD8C/pPJv2eRogl
+WHbHv6X207kKbli2UyquITrk8Mn/MAY=
+=Uqhy
+-----END PGP SIGNATURE-----
